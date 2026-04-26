@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="f0y6xY" name="Bleu" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+  <MAINGROUP id="f2QS5z" name="Bleu">
+    <GROUP id="{F6D827A1-51F1-B825-0C81-992BC8E5578B}" name="Source">
+      <FILE id="drkUO4" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="pGg7oL" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="TpOlck" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="R25uaZ" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="NAMI01" name="NAM_Implementation.cpp" compile="1" resource="0"
+            file="Source/Effects/NAM_Implementation.cpp"/>
+    </GROUP>
+    <FILE id="HLof0x" name="JUCE_API_Reference.md" compile="0" resource="1"
+          file="JUCE_API_Reference.md"/>
+  </MAINGROUP>
+  <MODULES>
+    <MODULE id="juce_animation" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="0"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_processors_headless" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="0"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <LINUX_MAKE targetFolder="Builds/LinuxMakefile" headerSearchPaths="../../Dependencies;../../Dependencies/dsp;../../Dependencies/NeuralAmpModelerCore;../../Dependencies/NeuralAmpModelerCore/Dependencies/eigen;../../Dependencies/NeuralAmpModelerCore/Dependencies/nlohmann;../../Dependencies/hiir;../../Dependencies/rubberband">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Bleu" headerSearchPaths="../../Dependencies;../../Dependencies/dsp;../../Dependencies/NeuralAmpModelerCore;../../Dependencies/NeuralAmpModelerCore/Dependencies/eigen;../../Dependencies/NeuralAmpModelerCore/Dependencies/nlohmann;../../Dependencies/hiir;../../Dependencies/rubberband"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Bleu" headerSearchPaths="../../Dependencies;../../Dependencies/dsp;../../Dependencies/NeuralAmpModelerCore;../../Dependencies/NeuralAmpModelerCore/Dependencies/eigen;../../Dependencies/NeuralAmpModelerCore/Dependencies/nlohmann;../../Dependencies/hiir;../../Dependencies/rubberband"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_animation" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="/home/satara/data/juce-8.0.12-linux/JUCE/modules"/>
+      </MODULEPATHS>
+    </LINUX_MAKE>
+  </EXPORTFORMATS>
+</JUCERPROJECT>

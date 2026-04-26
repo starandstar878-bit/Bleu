@@ -1,0 +1,174 @@
+{
+    "cabinets": [
+        {
+            "name": "C414 Cap Edge Close",
+            "category": "C414",
+            "filename": "C414 Cap Edge Close.wav"
+        },
+        {
+            "name": "C414 Cap Edge far",
+            "category": "C414",
+            "filename": "C414 Cap Edge far.wav"
+        },
+        {
+            "name": "C414 Centre Far",
+            "category": "C414",
+            "filename": "C414 Centre Far.wav"
+        },
+        {
+            "name": "C414 Edge Close",
+            "category": "C414",
+            "filename": "C414 Edge Close.wav"
+        },
+        {
+            "name": "C414 Edge Far",
+            "category": "C414",
+            "filename": "C414 Edge Far.wav"
+        },
+        {
+            "name": "C414 Mid Close",
+            "category": "C414",
+            "filename": "C414 Mid Close.wav"
+        },
+        {
+            "name": "C414 Mid Far",
+            "category": "C414",
+            "filename": "C414 Mid Far.wav"
+        },
+        {
+            "name": "C636 Cap Edge Close",
+            "category": "C636",
+            "filename": "C636 Cap Edge Close.wav"
+        },
+        {
+            "name": "C636 Cap Edge Far",
+            "category": "C636",
+            "filename": "C636 Cap Edge Far.wav"
+        },
+        {
+            "name": "C636 Centre Far",
+            "category": "C636",
+            "filename": "C636 Centre Far.wav"
+        },
+        {
+            "name": "C636 Edge Cone Close",
+            "category": "C636",
+            "filename": "C636 Edge Cone Close.wav"
+        },
+        {
+            "name": "C636 Edge Cone Far",
+            "category": "C636",
+            "filename": "C636 Edge Cone Far.wav"
+        },
+        {
+            "name": "C636 Mid Cone Close",
+            "category": "C636",
+            "filename": "C636 Mid Cone Close.wav"
+        },
+        {
+            "name": "C636 Mid Cone Far",
+            "category": "C636",
+            "filename": "C636 Mid Cone Far.wav"
+        },
+        {
+            "name": "DELUXE REVERB OXFORD - BIG",
+            "category": "DELUXE REVERB OXFORD",
+            "filename": "DELUXE REVERB OXFORD - BIG.wav"
+        },
+        {
+            "name": "DELUXE REVERB OXFORD - BIG - 48 24",
+            "category": "DELUXE REVERB OXFORD",
+            "filename": "DELUXE REVERB OXFORD - BIG - 48 24.wav"
+        },
+        {
+            "name": "DELUXE REVERB OXFORD - LEAN",
+            "category": "DELUXE REVERB OXFORD",
+            "filename": "DELUXE REVERB OXFORD - LEAN.wav"
+        },
+        {
+            "name": "DELUXE REVERB OXFORD - LEAN - 48 24",
+            "category": "DELUXE REVERB OXFORD",
+            "filename": "DELUXE REVERB OXFORD - LEAN - 48 24.wav"
+        },
+        {
+            "name": "EV MIX B",
+            "category": "EV",
+            "filename": "EV MIX B.wav"
+        },
+        {
+            "name": "EV MIX D",
+            "category": "EV",
+            "filename": "EV MIX D.wav"
+        },
+        {
+            "name": "Fender Twin Reverp Spring Stereo IR",
+            "category": "Fender",
+            "filename": "Fender Twin Reverp Spring Stereo IR.wav"
+        },
+        {
+            "name": "Marshall Box - 57 A - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 57 A - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 57 B - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 57 B - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 57 C - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 57 C - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 57 D - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 57 D - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 57 E - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 57 E - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 906 A - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 906 A - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 906 B - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 906 B - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 906 C - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 906 C - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 906 D - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 906 D - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Marshall Box - 906 E - 24bit - 48kHz - 500ms",
+            "category": "Marshall Box",
+            "filename": "Marshall Box - 906 E - 24bit - 48kHz - 500ms.wav"
+        },
+        {
+            "name": "Mesa_OS_4x12_57_m160",
+            "category": "Mesa",
+            "filename": "Mesa_OS_4x12_57_m160.wav"
+        },
+        {
+            "name": "Orange 4x12 V30 shure57 cn",
+            "category": "Orange",
+            "filename": "Orange 4x12 V30 shure57 cn.wav"
+        },
+        {
+            "name": "Stereo Room Impulse",
+            "category": "Stereo",
+            "filename": "Stereo Room Impulse.wav"
+        }
+    ]
+}

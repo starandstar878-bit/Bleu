@@ -1,0 +1,1824 @@
+{
+    "models": [
+        {
+            "name": "None",
+            "author": "System",
+            "model": "Bypass",
+            "filename": "None",
+            "type": "N/A"
+        },
+        {
+            "name": "George B Ceriatone King Kong  KK Ch2 60s solo 80s",
+            "author": "George",
+            "model": "B Ceriatone King Kong  KK Ch2 60s solo 80s",
+            "filename": "George B Ceriatone King Kong  KK Ch2 60s solo 80s.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong  chan2 60s br sw2 L",
+            "author": "George",
+            "model": "B Ceriatone King Kong  chan2 60s br sw2 L",
+            "filename": "George B Ceriatone King Kong  chan2 60s br sw2 L.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong Channel 1 60s mode",
+            "author": "George",
+            "model": "B Ceriatone King Kong Channel 1 60s mode",
+            "filename": "George B Ceriatone King Kong Channel 1 60s mode.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong Channel 2 80s mode both br sw R",
+            "author": "George",
+            "model": "B Ceriatone King Kong Channel 2 80s mode both br sw R",
+            "filename": "George B Ceriatone King Kong Channel 2 80s mode both br sw R.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong NAM Capture Bogner Blue Chase Tone Secret Pre Deco",
+            "author": "George",
+            "model": "B Ceriatone King Kong NAM Capture Bogner Blue Chase Tone Secret Pre Deco",
+            "filename": "George B Ceriatone King Kong NAM Capture Bogner Blue Chase Tone Secret Pre Deco.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong NAM Capture Boosted peace keeper Chase Tone Secret Pre Deco v2",
+            "author": "George",
+            "model": "B Ceriatone King Kong NAM Capture Boosted peace keeper Chase Tone Secret Pre Deco v2",
+            "filename": "George B Ceriatone King Kong NAM Capture Boosted peace keeper Chase Tone Secret Pre Deco v2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong NAM Capture Broadcast Chase Tone Secret Pre Deco",
+            "author": "George",
+            "model": "B Ceriatone King Kong NAM Capture Broadcast Chase Tone Secret Pre Deco",
+            "filename": "George B Ceriatone King Kong NAM Capture Broadcast Chase Tone Secret Pre Deco.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong NAM Capture Protein Chase Tone Secret Pre Deco ",
+            "author": "George",
+            "model": "B Ceriatone King Kong NAM Capture Protein Chase Tone Secret Pre Deco ",
+            "filename": "George B Ceriatone King Kong NAM Capture Protein Chase Tone Secret Pre Deco .nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong NAM Capture Turbo Nonna Chase Tone Secret Pre Deco",
+            "author": "George",
+            "model": "B Ceriatone King Kong NAM Capture Turbo Nonna Chase Tone Secret Pre Deco",
+            "filename": "George B Ceriatone King Kong NAM Capture Turbo Nonna Chase Tone Secret Pre Deco.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B Ceriatone King Kong chan2 70s both br sw L",
+            "author": "George",
+            "model": "B Ceriatone King Kong chan2 70s both br sw L",
+            "filename": "George B Ceriatone King Kong chan2 70s both br sw L.nam",
+            "type": "Full"
+        },
+        {
+            "name": "George B V4 Countess 300eps",
+            "author": "George",
+            "model": "B V4 Countess 300eps",
+            "filename": "George B V4 Countess 300eps.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 5150 BlockLetter - Boosted",
+            "author": "Helga",
+            "model": "B 5150 BlockLetter - Boosted",
+            "filename": "Helga B 5150 BlockLetter - Boosted.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 5150 BlockLetter - NoBoost",
+            "author": "Helga",
+            "model": "B 5150 BlockLetter - NoBoost",
+            "filename": "Helga B 5150 BlockLetter - NoBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6505+ Green ch - MXR Drive",
+            "author": "Helga",
+            "model": "B 6505+ Green ch - MXR Drive",
+            "filename": "Helga B 6505+ Green ch - MXR Drive.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6505+ Green ch - NoBoost",
+            "author": "Helga",
+            "model": "B 6505+ Green ch - NoBoost",
+            "filename": "Helga B 6505+ Green ch - NoBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6505+ Red Ch - NoBoost rock",
+            "author": "Helga",
+            "model": "B 6505+ Red Ch - NoBoost rock",
+            "filename": "Helga B 6505+ Red Ch - NoBoost rock.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6505+ Red ch - MXR Drive",
+            "author": "Helga",
+            "model": "B 6505+ Red ch - MXR Drive",
+            "filename": "Helga B 6505+ Red ch - MXR Drive.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6505+ Red ch - MXR Drive V2",
+            "author": "Helga",
+            "model": "B 6505+ Red ch - MXR Drive V2",
+            "filename": "Helga B 6505+ Red ch - MXR Drive V2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6505+ Red ch - NoBoost",
+            "author": "Helga",
+            "model": "B 6505+ Red ch - NoBoost",
+            "filename": "Helga B 6505+ Red ch - NoBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6534+ MXR M77",
+            "author": "Helga",
+            "model": "B 6534+ MXR M77",
+            "filename": "Helga B 6534+ MXR M77.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6534+ MXR M77 - Helga Behrens",
+            "author": "Helga",
+            "model": "B 6534+ MXR M77 - Helga Behrens",
+            "filename": "Helga B 6534+ MXR M77 - Helga Behrens.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6534+ No Boost",
+            "author": "Helga",
+            "model": "B 6534+ No Boost",
+            "filename": "Helga B 6534+ No Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B 6534+ OD808",
+            "author": "Helga",
+            "model": "B 6534+ OD808",
+            "filename": "Helga B 6534+ OD808.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B Boss OS-2",
+            "author": "Helga",
+            "model": "B Boss OS-2",
+            "filename": "Helga B Boss OS-2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B GCI Jugendstil",
+            "author": "Helga",
+            "model": "B GCI Jugendstil",
+            "filename": "Helga B GCI Jugendstil.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B III Blue - M77 Boost",
+            "author": "Helga",
+            "model": "B III Blue - M77 Boost",
+            "filename": "Helga B III Blue - M77 Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B III Blue - NoBoost",
+            "author": "Helga",
+            "model": "B III Blue - NoBoost",
+            "filename": "Helga B III Blue - NoBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B III Red - 805 Boost",
+            "author": "Helga",
+            "model": "B III Red - 805 Boost",
+            "filename": "Helga B III Red - 805 Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B III Red - NoBoost",
+            "author": "Helga",
+            "model": "B III Red - NoBoost",
+            "filename": "Helga B III Red - NoBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B III Red - NoBoostBALLS",
+            "author": "Helga",
+            "model": "B III Red - NoBoostBALLS",
+            "filename": "Helga B III Red - NoBoostBALLS.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX Ultra - M77(FIXED)",
+            "author": "Helga",
+            "model": "B JSX Ultra - M77(FIXED)",
+            "filename": "Helga B JSX Ultra - M77(FIXED).nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX Ultra - M77(GROUND HUM)",
+            "author": "Helga",
+            "model": "B JSX Ultra - M77(GROUND HUM)",
+            "filename": "Helga B JSX Ultra - M77(GROUND HUM).nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX Ultra - No Boost",
+            "author": "Helga",
+            "model": "B JSX Ultra - No Boost",
+            "filename": "Helga B JSX Ultra - No Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX Ultra - OD808",
+            "author": "Helga",
+            "model": "B JSX Ultra - OD808",
+            "filename": "Helga B JSX Ultra - OD808.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX-Crunch-M77-ESR0,007",
+            "author": "Helga",
+            "model": "B JSX-Crunch-M77-ESR0,007",
+            "filename": "Helga B JSX-Crunch-M77-ESR0,007.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX-Crunch-NoBoost-0,004",
+            "author": "Helga",
+            "model": "B JSX-Crunch-NoBoost-0,004",
+            "filename": "Helga B JSX-Crunch-NoBoost-0,004.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B JSX-Crunch-OD808-ESR0,007",
+            "author": "Helga",
+            "model": "B JSX-Crunch-OD808-ESR0,007",
+            "filename": "Helga B JSX-Crunch-OD808-ESR0,007.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B PP Rot Mid Boost",
+            "author": "Helga",
+            "model": "B PP Rot Mid Boost",
+            "filename": "Helga B PP Rot Mid Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B PP Rot Mid Scoop",
+            "author": "Helga",
+            "model": "B PP Rot Mid Scoop",
+            "filename": "Helga B PP Rot Mid Scoop.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B PP Wendigo",
+            "author": "Helga",
+            "model": "B PP Wendigo",
+            "filename": "Helga B PP Wendigo.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Helga B XXX-6L6-M77-ESR0015",
+            "author": "Helga",
+            "model": "B XXX-6L6-M77-ESR0015",
+            "filename": "Helga B XXX-6L6-M77-ESR0015.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B XXX-6L6-OD808-ESR0015",
+            "author": "Helga",
+            "model": "B XXX-6L6-OD808-ESR0015",
+            "filename": "Helga B XXX-6L6-OD808-ESR0015.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B XXX-6L6-PP-Rot-MidBoost-ESR056",
+            "author": "Helga",
+            "model": "B XXX-6L6-PP-Rot-MidBoost-ESR056",
+            "filename": "Helga B XXX-6L6-PP-Rot-MidBoost-ESR056.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B XXX-6L6-PP-Rot-MidScoop-ESR061",
+            "author": "Helga",
+            "model": "B XXX-6L6-PP-Rot-MidScoop-ESR061",
+            "filename": "Helga B XXX-6L6-PP-Rot-MidScoop-ESR061.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B XXX-6L6-Wendigo-ESR0,016",
+            "author": "Helga",
+            "model": "B XXX-6L6-Wendigo-ESR0,016",
+            "filename": "Helga B XXX-6L6-Wendigo-ESR0,016.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Helga B XXX-KT77-M77",
+            "author": "Helga",
+            "model": "B XXX-KT77-M77",
+            "filename": "Helga B XXX-KT77-M77.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B XXX-KT77-NoBoost",
+            "author": "Helga",
+            "model": "B XXX-KT77-NoBoost",
+            "filename": "Helga B XXX-KT77-NoBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Helga B XXX-KT77-OD808",
+            "author": "Helga",
+            "model": "B XXX-KT77-OD808",
+            "filename": "Helga B XXX-KT77-OD808.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z Boss HM2 v1 kinda bass heavy with medium distortion pure everything turned all the way up tone",
+            "author": "Jason",
+            "model": "Z Boss HM2 v1 kinda bass heavy with medium distortion pure everything turned all the way up tone",
+            "filename": "Jason Z Boss HM2 v1 kinda bass heavy with medium distortion pure everything turned all the way up tone.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Jason Z Boss HM2BTFO heavy distortion meant to be standalone less bass more honk",
+            "author": "Jason",
+            "model": "Z Boss HM2BTFO heavy distortion meant to be standalone less bass more honk",
+            "filename": "Jason Z Boss HM2BTFO heavy distortion meant to be standalone less bass more honk.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Jason Z Boss HM2EQ light distortion with dimed EQ knobs use before an amp",
+            "author": "Jason",
+            "model": "Z Boss HM2EQ light distortion with dimed EQ knobs use before an amp",
+            "filename": "Jason Z Boss HM2EQ light distortion with dimed EQ knobs use before an amp.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Jason Z KSR CERES - light blue channel - all noon EQ",
+            "author": "Jason",
+            "model": "Z KSR CERES - light blue channel - all noon EQ",
+            "filename": "Jason Z KSR CERES - light blue channel - all noon EQ.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z KSR CERES - purple channel - all noon EQ",
+            "author": "Jason",
+            "model": "Z KSR CERES - purple channel - all noon EQ",
+            "filename": "Jason Z KSR CERES - purple channel - all noon EQ.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z KSR VESTA - light blue channel - all noon EQ",
+            "author": "Jason",
+            "model": "Z KSR VESTA - light blue channel - all noon EQ",
+            "filename": "Jason Z KSR VESTA - light blue channel - all noon EQ.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z KSR VESTA - purple channel - all noon EQ",
+            "author": "Jason",
+            "model": "Z KSR VESTA - purple channel - all noon EQ",
+            "filename": "Jason Z KSR VESTA - purple channel - all noon EQ.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z Line 6 UBERMETAL INSANE droom metal at its best",
+            "author": "Jason",
+            "model": "Z Line 6 UBERMETAL INSANE droom metal at its best",
+            "filename": "Jason Z Line 6 UBERMETAL INSANE droom metal at its best.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z Soldano - Super Lead Overdrive pedal nice crunchy rhythm tone",
+            "author": "Jason",
+            "model": "Z Soldano - Super Lead Overdrive pedal nice crunchy rhythm tone",
+            "filename": "Jason Z Soldano - Super Lead Overdrive pedal nice crunchy rhythm tone.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Jason Z Tech21 dUg DP3X bass preamp pedal all dimed no shift",
+            "author": "Jason",
+            "model": "Z Tech21 dUg DP3X bass preamp pedal all dimed no shift",
+            "filename": "Jason Z Tech21 dUg DP3X bass preamp pedal all dimed no shift.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Keith B DS1_g6_t5",
+            "author": "Keith",
+            "model": "B DS1_g6_t5",
+            "filename": "Keith B DS1_g6_t5.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B DS1_maxg_t5",
+            "author": "Keith",
+            "model": "B DS1_maxg_t5",
+            "filename": "Keith B DS1_maxg_t5.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B Klone_plus_BB_highGain",
+            "author": "Keith",
+            "model": "B Klone_plus_BB_highGain",
+            "filename": "Keith B Klone_plus_BB_highGain.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B Klone_plus_BB_lowgain",
+            "author": "Keith",
+            "model": "B Klone_plus_BB_lowgain",
+            "filename": "Keith B Klone_plus_BB_lowgain.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B Klone_plus_BB_medGain",
+            "author": "Keith",
+            "model": "B Klone_plus_BB_medGain",
+            "filename": "Keith B Klone_plus_BB_medGain.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B PlumesClone_maxG_t5_switch1",
+            "author": "Keith",
+            "model": "B PlumesClone_maxG_t5_switch1",
+            "filename": "Keith B PlumesClone_maxG_t5_switch1.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B PlumesClone_maxG_t5_switch3",
+            "author": "Keith",
+            "model": "B PlumesClone_maxG_t5_switch3",
+            "filename": "Keith B PlumesClone_maxG_t5_switch3.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B klone_g6_t6_o5",
+            "author": "Keith",
+            "model": "B klone_g6_t6_o5",
+            "filename": "Keith B klone_g6_t6_o5.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Keith B klone_maxG_t6_o5",
+            "author": "Keith",
+            "model": "B klone_maxG_t6_o5",
+            "filename": "Keith B klone_maxG_t6_o5.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Luis R driftwood purple nightmare TS engaged",
+            "author": "Luis",
+            "model": "R driftwood purple nightmare TS engaged",
+            "filename": "Luis R driftwood purple nightmare TS engaged.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Mikhail K Sovtek MIG50",
+            "author": "Mikhail",
+            "model": "K Sovtek MIG50",
+            "filename": "Mikhail K Sovtek MIG50.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Mikhail K SovtekMIG50 + DOD FX56B",
+            "author": "Mikhail",
+            "model": "K SovtekMIG50 + DOD FX56B",
+            "filename": "Mikhail K SovtekMIG50 + DOD FX56B.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Mikhail K SovtekMIG50 + Klone",
+            "author": "Mikhail",
+            "model": "K SovtekMIG50 + Klone",
+            "filename": "Mikhail K SovtekMIG50 + Klone.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Mikhail K SovtekMIG50 + SparkleDrive",
+            "author": "Mikhail",
+            "model": "K SovtekMIG50 + SparkleDrive",
+            "filename": "Mikhail K SovtekMIG50 + SparkleDrive.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Mikhail K SovtekMIG50 + ThroneTorcher",
+            "author": "Mikhail",
+            "model": "K SovtekMIG50 + ThroneTorcher",
+            "filename": "Mikhail K SovtekMIG50 + ThroneTorcher.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N DirtyTree DT-33_V7_Feather_ESR-0.0001",
+            "author": "Peter",
+            "model": "N DirtyTree DT-33_V7_Feather_ESR-0.0001",
+            "filename": "Peter N DirtyTree DT-33_V7_Feather_ESR-0.0001.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Peter N DirtyTree DT-33_V7_Lite_ESR-0.0001",
+            "author": "Peter",
+            "model": "N DirtyTree DT-33_V7_Lite_ESR-0.0001",
+            "filename": "Peter N DirtyTree DT-33_V7_Lite_ESR-0.0001.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Peter N DirtyTree DT-33_V7_Std_ESR-0.0001",
+            "author": "Peter",
+            "model": "N DirtyTree DT-33_V7_Std_ESR-0.0001",
+            "filename": "Peter N DirtyTree DT-33_V7_Std_ESR-0.0001.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Peter N DirtyTree DT-TC_V7_L3_H7_Feather-ESR-0.0001",
+            "author": "Peter",
+            "model": "N DirtyTree DT-TC_V7_L3_H7_Feather-ESR-0.0001",
+            "filename": "Peter N DirtyTree DT-TC_V7_L3_H7_Feather-ESR-0.0001.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Peter N DirtyTree DT-TC_V7_L3_H7_Lite-ESR-0.0001_(v1)",
+            "author": "Peter",
+            "model": "N DirtyTree DT-TC_V7_L3_H7_Lite-ESR-0.0001_(v1)",
+            "filename": "Peter N DirtyTree DT-TC_V7_L3_H7_Lite-ESR-0.0001_(v1).nam",
+            "type": "DI"
+        },
+        {
+            "name": "Peter N DirtyTree DT-TC_V7_L3_H7_Std_ESR-0.0001_(v1)",
+            "author": "Peter",
+            "model": "N DirtyTree DT-TC_V7_L3_H7_Std_ESR-0.0001_(v1)",
+            "filename": "Peter N DirtyTree DT-TC_V7_L3_H7_Std_ESR-0.0001_(v1).nam",
+            "type": "DI"
+        },
+        {
+            "name": "Peter N HM-2_SWEDE_Feather_ESR-0.0097",
+            "author": "Peter",
+            "model": "N HM-2_SWEDE_Feather_ESR-0.0097",
+            "filename": "Peter N HM-2_SWEDE_Feather_ESR-0.0097.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_SWEDE_Lite_ESR-0.0057",
+            "author": "Peter",
+            "model": "N HM-2_SWEDE_Lite_ESR-0.0057",
+            "filename": "Peter N HM-2_SWEDE_Lite_ESR-0.0057.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_SWEDE_Std_ESR-0.0034",
+            "author": "Peter",
+            "model": "N HM-2_SWEDE_Std_ESR-0.0034",
+            "filename": "Peter N HM-2_SWEDE_Std_ESR-0.0034.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L10_H10_D0_Feather_ESR-0.0015",
+            "author": "Peter",
+            "model": "N HM-2_V5_L10_H10_D0_Feather_ESR-0.0015",
+            "filename": "Peter N HM-2_V5_L10_H10_D0_Feather_ESR-0.0015.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L10_H10_D0_Std_ESR-0.0004",
+            "author": "Peter",
+            "model": "N HM-2_V5_L10_H10_D0_Std_ESR-0.0004",
+            "filename": "Peter N HM-2_V5_L10_H10_D0_Std_ESR-0.0004.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L10_H10_D0_lite_ESR-0.0007",
+            "author": "Peter",
+            "model": "N HM-2_V5_L10_H10_D0_lite_ESR-0.0007",
+            "filename": "Peter N HM-2_V5_L10_H10_D0_lite_ESR-0.0007.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L10_H8_D2_Feather-ESR-0.0025",
+            "author": "Peter",
+            "model": "N HM-2_V5_L10_H8_D2_Feather-ESR-0.0025",
+            "filename": "Peter N HM-2_V5_L10_H8_D2_Feather-ESR-0.0025.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L10_H8_D2_Lite_ESR-0.0014",
+            "author": "Peter",
+            "model": "N HM-2_V5_L10_H8_D2_Lite_ESR-0.0014",
+            "filename": "Peter N HM-2_V5_L10_H8_D2_Lite_ESR-0.0014.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L10_H8_D2_Std_ESR-0.0008",
+            "author": "Peter",
+            "model": "N HM-2_V5_L10_H8_D2_Std_ESR-0.0008",
+            "filename": "Peter N HM-2_V5_L10_H8_D2_Std_ESR-0.0008.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L8_H4_D0_Feather_ESR-0.0025",
+            "author": "Peter",
+            "model": "N HM-2_V5_L8_H4_D0_Feather_ESR-0.0025",
+            "filename": "Peter N HM-2_V5_L8_H4_D0_Feather_ESR-0.0025.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L8_H4_D0_Lite_ESR-0.0015",
+            "author": "Peter",
+            "model": "N HM-2_V5_L8_H4_D0_Lite_ESR-0.0015",
+            "filename": "Peter N HM-2_V5_L8_H4_D0_Lite_ESR-0.0015.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Peter N HM-2_V5_L8_H4_D0_Std_ESR-0.0015",
+            "author": "Peter",
+            "model": "N HM-2_V5_L8_H4_D0_Std_ESR-0.0015",
+            "filename": "Peter N HM-2_V5_L8_H4_D0_Std_ESR-0.0015.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P BOSS-SD1-Feather-ESR0,001",
+            "author": "Phillipe",
+            "model": "P BOSS-SD1-Feather-ESR0,001",
+            "filename": "Phillipe P BOSS-SD1-Feather-ESR0,001.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug1990-Lead-NoDrive-Cab-ESR0,011",
+            "author": "Phillipe",
+            "model": "P Bug1990-Lead-NoDrive-Cab-ESR0,011",
+            "filename": "Phillipe P Bug1990-Lead-NoDrive-Cab-ESR0,011.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug1990-Lead-NoDrive-ESR0,004",
+            "author": "Phillipe",
+            "model": "P Bug1990-Lead-NoDrive-ESR0,004",
+            "filename": "Phillipe P Bug1990-Lead-NoDrive-ESR0,004.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Clean-Cab-ESR0,007",
+            "author": "Phillipe",
+            "model": "P Bug333-Clean-Cab-ESR0,007",
+            "filename": "Phillipe P Bug333-Clean-Cab-ESR0,007.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Clean-ESR0,002",
+            "author": "Phillipe",
+            "model": "P Bug333-Clean-ESR0,002",
+            "filename": "Phillipe P Bug333-Clean-ESR0,002.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Crunch-DT-Cab-ESR0,014",
+            "author": "Phillipe",
+            "model": "P Bug333-Crunch-DT-Cab-ESR0,014",
+            "filename": "Phillipe P Bug333-Crunch-DT-Cab-ESR0,014.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Crunch-DT-ESR0,0133",
+            "author": "Phillipe",
+            "model": "P Bug333-Crunch-DT-ESR0,0133",
+            "filename": "Phillipe P Bug333-Crunch-DT-ESR0,0133.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Crunch-NoDrive-Cab-ESR0,005",
+            "author": "Phillipe",
+            "model": "P Bug333-Crunch-NoDrive-Cab-ESR0,005",
+            "filename": "Phillipe P Bug333-Crunch-NoDrive-Cab-ESR0,005.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Crunch-NoDrive-ESR0,002",
+            "author": "Phillipe",
+            "model": "P Bug333-Crunch-NoDrive-ESR0,002",
+            "filename": "Phillipe P Bug333-Crunch-NoDrive-ESR0,002.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Lead-NoDrive-Cab-ESR0,007",
+            "author": "Phillipe",
+            "model": "P Bug333-Lead-NoDrive-Cab-ESR0,007",
+            "filename": "Phillipe P Bug333-Lead-NoDrive-Cab-ESR0,007.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug333-Lead-NoDrive-ESR0,004",
+            "author": "Phillipe",
+            "model": "P Bug333-Lead-NoDrive-ESR0,004",
+            "filename": "Phillipe P Bug333-Lead-NoDrive-ESR0,004.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bug6262-Crunch-NoDrive-Cab-ESR0,004",
+            "author": "Phillipe",
+            "model": "P Bug6262-Crunch-NoDrive-Cab-ESR0,004",
+            "filename": "Phillipe P Bug6262-Crunch-NoDrive-Cab-ESR0,004.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bugera6262-Crunch-NoDrive-ESR0,002",
+            "author": "Phillipe",
+            "model": "P Bugera6262-Crunch-NoDrive-ESR0,002",
+            "filename": "Phillipe P Bugera6262-Crunch-NoDrive-ESR0,002.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bugera6262-Lead-M77-ESR0,020",
+            "author": "Phillipe",
+            "model": "P Bugera6262-Lead-M77-ESR0,020",
+            "filename": "Phillipe P Bugera6262-Lead-M77-ESR0,020.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bugera6262-Lead-M77-Gain1,5-ESR0,017",
+            "author": "Phillipe",
+            "model": "P Bugera6262-Lead-M77-Gain1,5-ESR0,017",
+            "filename": "Phillipe P Bugera6262-Lead-M77-Gain1,5-ESR0,017.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bugera6262-Lead-NoDrive-Cab-ESR0,009",
+            "author": "Phillipe",
+            "model": "P Bugera6262-Lead-NoDrive-Cab-ESR0,009",
+            "filename": "Phillipe P Bugera6262-Lead-NoDrive-Cab-ESR0,009.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Bugera6262-Lead-NoDrive-ESR0,009",
+            "author": "Phillipe",
+            "model": "P Bugera6262-Lead-NoDrive-ESR0,009",
+            "filename": "Phillipe P Bugera6262-Lead-NoDrive-ESR0,009.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Dirty Tree-Feather-ESR0,001",
+            "author": "Phillipe",
+            "model": "P Dirty Tree-Feather-ESR0,001",
+            "filename": "Phillipe P Dirty Tree-Feather-ESR0,001.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Phillipe P JVM-CL-GR-NoDrive-Cab-ESR0,007",
+            "author": "Phillipe",
+            "model": "P JVM-CL-GR-NoDrive-Cab-ESR0,007",
+            "filename": "Phillipe P JVM-CL-GR-NoDrive-Cab-ESR0,007.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-CL-GR-NoDrive-ESR0,005",
+            "author": "Phillipe",
+            "model": "P JVM-CL-GR-NoDrive-ESR0,005",
+            "filename": "Phillipe P JVM-CL-GR-NoDrive-ESR0,005.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-CR-OR-NoDrive-ESR0,017",
+            "author": "Phillipe",
+            "model": "P JVM-CR-OR-NoDrive-ESR0,017",
+            "filename": "Phillipe P JVM-CR-OR-NoDrive-ESR0,017.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-CR-OR-SD1-ESR0,018",
+            "author": "Phillipe",
+            "model": "P JVM-CR-OR-SD1-ESR0,018",
+            "filename": "Phillipe P JVM-CR-OR-SD1-ESR0,018.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-OD1-GR-M77-ESR0,018",
+            "author": "Phillipe",
+            "model": "P JVM-OD1-GR-M77-ESR0,018",
+            "filename": "Phillipe P JVM-OD1-GR-M77-ESR0,018.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-OD1-GR-NoDrive-ESR0,015",
+            "author": "Phillipe",
+            "model": "P JVM-OD1-GR-NoDrive-ESR0,015",
+            "filename": "Phillipe P JVM-OD1-GR-NoDrive-ESR0,015.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-OD2-RD-NoDrive-Cab-ESR0,006",
+            "author": "Phillipe",
+            "model": "P JVM-OD2-RD-NoDrive-Cab-ESR0,006",
+            "filename": "Phillipe P JVM-OD2-RD-NoDrive-Cab-ESR0,006.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P JVM-OD2-RD-NoDrive-ESR0,003",
+            "author": "Phillipe",
+            "model": "P JVM-OD2-RD-NoDrive-ESR0,003",
+            "filename": "Phillipe P JVM-OD2-RD-NoDrive-ESR0,003.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P LaneyGH100S-Hi-HiNoon-ESR0,024",
+            "author": "Phillipe",
+            "model": "P LaneyGH100S-Hi-HiNoon-ESR0,024",
+            "filename": "Phillipe P LaneyGH100S-Hi-HiNoon-ESR0,024.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P LaneyGH100S-Hi-MidGain-ESR0,003",
+            "author": "Phillipe",
+            "model": "P LaneyGH100S-Hi-MidGain-ESR0,003",
+            "filename": "Phillipe P LaneyGH100S-Hi-MidGain-ESR0,003.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P LaneyGH100S-Lo-AfterBreakUp-ESR0,001",
+            "author": "Phillipe",
+            "model": "P LaneyGH100S-Lo-AfterBreakUp-ESR0,001",
+            "filename": "Phillipe P LaneyGH100S-Lo-AfterBreakUp-ESR0,001.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P LaneyGH100S-Lo-CrunchGain-ESR0,024",
+            "author": "Phillipe",
+            "model": "P LaneyGH100S-Lo-CrunchGain-ESR0,024",
+            "filename": "Phillipe P LaneyGH100S-Lo-CrunchGain-ESR0,024.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P MXR-M77-Feather-ESR0,001",
+            "author": "Phillipe",
+            "model": "P MXR-M77-Feather-ESR0,001",
+            "filename": "Phillipe P MXR-M77-Feather-ESR0,001.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Maxon-OD808-Feather-ESR0,001",
+            "author": "Phillipe",
+            "model": "P Maxon-OD808-Feather-ESR0,001",
+            "filename": "Phillipe P Maxon-OD808-Feather-ESR0,001.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Precision-Drive-Att4-Feather-ESR0,001",
+            "author": "Phillipe",
+            "model": "P Precision-Drive-Att4-Feather-ESR0,001",
+            "filename": "Phillipe P Precision-Drive-Att4-Feather-ESR0,001.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P Precision-Drive-Feather-ESR0,001",
+            "author": "Phillipe",
+            "model": "P Precision-Drive-Feather-ESR0,001",
+            "filename": "Phillipe P Precision-Drive-Feather-ESR0,001.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P VOXAC15-JonAr1",
+            "author": "Phillipe",
+            "model": "P VOXAC15-JonAr1",
+            "filename": "Phillipe P VOXAC15-JonAr1.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P VOXAC15-JonAr2",
+            "author": "Phillipe",
+            "model": "P VOXAC15-JonAr2",
+            "filename": "Phillipe P VOXAC15-JonAr2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P VOXAC15-JonAr3",
+            "author": "Phillipe",
+            "model": "P VOXAC15-JonAr3",
+            "filename": "Phillipe P VOXAC15-JonAr3.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P VOXAC15-JonAr4",
+            "author": "Phillipe",
+            "model": "P VOXAC15-JonAr4",
+            "filename": "Phillipe P VOXAC15-JonAr4.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Phillipe P VOXAC15-TopBoost",
+            "author": "Phillipe",
+            "model": "P VOXAC15-TopBoost",
+            "filename": "Phillipe P VOXAC15-TopBoost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Roman A BUGERA_333",
+            "author": "Roman",
+            "model": "A BUGERA_333",
+            "filename": "Roman A BUGERA_333.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Roman A BUGERA_333_BOOSTED",
+            "author": "Roman",
+            "model": "A BUGERA_333_BOOSTED",
+            "filename": "Roman A BUGERA_333_BOOSTED.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Roman A LT_MESA_MARKIV_1",
+            "author": "Roman",
+            "model": "A LT_MESA_MARKIV_1",
+            "filename": "Roman A LT_MESA_MARKIV_1.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Roman A YERASOV_MESHUGGAH",
+            "author": "Roman",
+            "model": "A YERASOV_MESHUGGAH",
+            "filename": "Roman A YERASOV_MESHUGGAH.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Roman A YERASOV_MESHUGGAH_BOOSTED",
+            "author": "Roman",
+            "model": "A YERASOV_MESHUGGAH_BOOSTED",
+            "filename": "Roman A YERASOV_MESHUGGAH_BOOSTED.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Sascha S DirtyShirleyCrunch_G4_BuxBoostTight",
+            "author": "Sascha",
+            "model": "S DirtyShirleyCrunch_G4_BuxBoostTight",
+            "filename": "Sascha S DirtyShirleyCrunch_G4_BuxBoostTight.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_Clean_B1_M6_T7_MV10_G4",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_Clean_B1_M6_T7_MV10_G4",
+            "filename": "Sascha S DirtyShirleyMini_Clean_B1_M6_T7_MV10_G4.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_crunch_B4_M5.5_T6_MV6_G4_GS_high",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_crunch_B4_M5.5_T6_MV6_G4_GS_high",
+            "filename": "Sascha S DirtyShirleyMini_crunch_B4_M5.5_T6_MV6_G4_GS_high.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_crunch_G6",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_crunch_G6",
+            "filename": "Sascha S DirtyShirleyMini_crunch_G6.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_crunch_G6_PreQ",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_crunch_G6_PreQ",
+            "filename": "Sascha S DirtyShirleyMini_crunch_G6_PreQ.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_crunch_G8",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_crunch_G8",
+            "filename": "Sascha S DirtyShirleyMini_crunch_G8.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_lowDrive_G6_GainStrucLow",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_lowDrive_G6_GainStrucLow",
+            "filename": "Sascha S DirtyShirleyMini_lowDrive_G6_GainStrucLow.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S DirtyShirleyMini_lowGain_MV10_G3.5_klonboost",
+            "author": "Sascha",
+            "model": "S DirtyShirleyMini_lowGain_MV10_G3.5_klonboost",
+            "filename": "Sascha S DirtyShirleyMini_lowGain_MV10_G3.5_klonboost.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Sascha S FriedmanDSM_PowerAmpEL84_MV10_feather",
+            "author": "Sascha",
+            "model": "S FriedmanDSM_PowerAmpEL84_MV10_feather",
+            "filename": "Sascha S FriedmanDSM_PowerAmpEL84_MV10_feather.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Sascha S FriedmanDSM_PowerAmpEL84_MV6_feather",
+            "author": "Sascha",
+            "model": "S FriedmanDSM_PowerAmpEL84_MV6_feather",
+            "filename": "Sascha S FriedmanDSM_PowerAmpEL84_MV6_feather.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R 5152 Clean ish",
+            "author": "Tim",
+            "model": "R 5152 Clean ish",
+            "filename": "Tim R 5152 Clean ish.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R 5152 Crunch + TS9",
+            "author": "Tim",
+            "model": "R 5152 Crunch + TS9",
+            "filename": "Tim R 5152 Crunch + TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R 5152 Crunch No Boost",
+            "author": "Tim",
+            "model": "R 5152 Crunch No Boost",
+            "filename": "Tim R 5152 Crunch No Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R 5152 Lead + TS9",
+            "author": "Tim",
+            "model": "R 5152 Lead + TS9",
+            "filename": "Tim R 5152 Lead + TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R 5152 Lead No Boost",
+            "author": "Tim",
+            "model": "R 5152 Lead No Boost",
+            "filename": "Tim R 5152 Lead No Boost.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Fender TwinVerb Norm Bright",
+            "author": "Tim",
+            "model": "R Fender TwinVerb Norm Bright",
+            "filename": "Tim R Fender TwinVerb Norm Bright.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Fender TwinVerb Vibrato Bright",
+            "author": "Tim",
+            "model": "R Fender TwinVerb Vibrato Bright",
+            "filename": "Tim R Fender TwinVerb Vibrato Bright.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 Clean",
+            "author": "Tim",
+            "model": "R JCM2000 Clean",
+            "filename": "Tim R JCM2000 Clean.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 Crunch",
+            "author": "Tim",
+            "model": "R JCM2000 Crunch",
+            "filename": "Tim R JCM2000 Crunch.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 Crunch 805'd",
+            "author": "Tim",
+            "model": "R JCM2000 Crunch 805'd",
+            "filename": "Tim R JCM2000 Crunch 805'd.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 L2 G6",
+            "author": "Tim",
+            "model": "R JCM2000 L2 G6",
+            "filename": "Tim R JCM2000 L2 G6.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 L2 G6 805'd",
+            "author": "Tim",
+            "model": "R JCM2000 L2 G6 805'd",
+            "filename": "Tim R JCM2000 L2 G6 805'd.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 L2 G8",
+            "author": "Tim",
+            "model": "R JCM2000 L2 G8",
+            "filename": "Tim R JCM2000 L2 G8.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM2000 L2 G8 805'd",
+            "author": "Tim",
+            "model": "R JCM2000 L2 G8 805'd",
+            "filename": "Tim R JCM2000 L2 G8 805'd.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbCHAG6",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbCHAG6",
+            "filename": "Tim R JCM90050WDualVerbCHAG6.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbChAG4",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbChAG4",
+            "filename": "Tim R JCM90050WDualVerbChAG4.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbChAG8",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbChAG8",
+            "filename": "Tim R JCM90050WDualVerbChAG8.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbChBG12",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbChBG12",
+            "filename": "Tim R JCM90050WDualVerbChBG12.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbChBG16",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbChBG16",
+            "filename": "Tim R JCM90050WDualVerbChBG16.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbChBG20",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbChBG20",
+            "filename": "Tim R JCM90050WDualVerbChBG20.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbChBG8",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbChBG8",
+            "filename": "Tim R JCM90050WDualVerbChBG8.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R JCM90050WDualVerbchAG10",
+            "author": "Tim",
+            "model": "R JCM90050WDualVerbchAG10",
+            "filename": "Tim R JCM90050WDualVerbchAG10.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Jet City G2",
+            "author": "Tim",
+            "model": "R Jet City G2",
+            "filename": "Tim R Jet City G2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Jet City G4",
+            "author": "Tim",
+            "model": "R Jet City G4",
+            "filename": "Tim R Jet City G4.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Jet City G5",
+            "author": "Tim",
+            "model": "R Jet City G5",
+            "filename": "Tim R Jet City G5.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Jet City G6",
+            "author": "Tim",
+            "model": "R Jet City G6",
+            "filename": "Tim R Jet City G6.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Jet City G9 Boosted",
+            "author": "Tim",
+            "model": "R Jet City G9 Boosted",
+            "filename": "Tim R Jet City G9 Boosted.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 MKii - TS9 On Full",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 MKii - TS9 On Full",
+            "filename": "Tim R Magnatone Super 59 MKii - TS9 On Full.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 MKii Bridged Blend",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 MKii Bridged Blend",
+            "filename": "Tim R Magnatone Super 59 MKii Bridged Blend.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 MKii Bridged Driven",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 MKii Bridged Driven",
+            "filename": "Tim R Magnatone Super 59 MKii Bridged Driven.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Bridged BR Bias",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Bridged BR Bias",
+            "filename": "Tim R Magnatone Super 59 Mkii Bridged BR Bias.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Bridged Kloned",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Bridged Kloned",
+            "filename": "Tim R Magnatone Super 59 Mkii Bridged Kloned.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Ch1 Br",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Ch1 Br",
+            "filename": "Tim R Magnatone Super 59 Mkii Ch1 Br.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Ch1 Norm",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Ch1 Norm",
+            "filename": "Tim R Magnatone Super 59 Mkii Ch1 Norm.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Ch2 Br",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Ch2 Br",
+            "filename": "Tim R Magnatone Super 59 Mkii Ch2 Br.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Ch2 Norm",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Ch2 Norm",
+            "filename": "Tim R Magnatone Super 59 Mkii Ch2 Norm.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Max'd",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Max'd",
+            "filename": "Tim R Magnatone Super 59 Mkii Max'd.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Max'd TS9",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Max'd TS9",
+            "filename": "Tim R Magnatone Super 59 Mkii Max'd TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Pushed",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Pushed",
+            "filename": "Tim R Magnatone Super 59 Mkii Pushed.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Magnatone Super 59 Mkii Pushed TS9",
+            "author": "Tim",
+            "model": "R Magnatone Super 59 Mkii Pushed TS9",
+            "filename": "Tim R Magnatone Super 59 Mkii Pushed TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Seymour Duncan 805",
+            "author": "Tim",
+            "model": "R Seymour Duncan 805",
+            "filename": "Tim R Seymour Duncan 805.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod 1st Gear - G12",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod 1st Gear - G12",
+            "filename": "Tim R Splawn Pro Mod 1st Gear - G12.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod 2nd Gear - G12",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod 2nd Gear - G12",
+            "filename": "Tim R Splawn Pro Mod 2nd Gear - G12.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod 3rd Gear - G12",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod 3rd Gear - G12",
+            "filename": "Tim R Splawn Pro Mod 3rd Gear - G12.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G10 Gear 1",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G10 Gear 1",
+            "filename": "Tim R Splawn Pro Mod G10 Gear 1.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G10 Gear 1 OD2",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G10 Gear 1 OD2",
+            "filename": "Tim R Splawn Pro Mod G10 Gear 1 OD2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G10 Gear 2",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G10 Gear 2",
+            "filename": "Tim R Splawn Pro Mod G10 Gear 2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G10 Gear 2 OD2",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G10 Gear 2 OD2",
+            "filename": "Tim R Splawn Pro Mod G10 Gear 2 OD2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G10 Gear 3",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G10 Gear 3",
+            "filename": "Tim R Splawn Pro Mod G10 Gear 3.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G10 Gear 3 OD2",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G10 Gear 3 OD2",
+            "filename": "Tim R Splawn Pro Mod G10 Gear 3 OD2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G12 Gear 2 OD2 TS9",
+            "filename": "Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R Splawn Pro Mod G12 Gear 3 OD2 TS9",
+            "author": "Tim",
+            "model": "R Splawn Pro Mod G12 Gear 3 OD2 TS9",
+            "filename": "Tim R Splawn Pro Mod G12 Gear 3 OD2 TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R TS9",
+            "author": "Tim",
+            "model": "R TS9",
+            "filename": "Tim R TS9.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tim R TS9 Driven",
+            "author": "Tim",
+            "model": "R TS9 Driven",
+            "filename": "Tim R TS9 Driven.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tom C Axe FX 2 Engl Savage",
+            "author": "Tom",
+            "model": "C Axe FX 2 Engl Savage",
+            "filename": "Tom C Axe FX 2 Engl Savage.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tom C Axe FX 2 Orange Rockerverb",
+            "author": "Tom",
+            "model": "C Axe FX 2 Orange Rockerverb",
+            "filename": "Tom C Axe FX 2 Orange Rockerverb.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tom C Engl e530 preamp & 840 power amp with Boss DS1 Overdrive",
+            "author": "Tom",
+            "model": "C Engl e530 preamp & 840 power amp with Boss DS1 Overdrive",
+            "filename": "Tom C Engl e530 preamp & 840 power amp with Boss DS1 Overdrive.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ceriatone Molecular 50",
+            "author": "Tudor",
+            "model": "N Ceriatone Molecular 50",
+            "filename": "Tudor N Ceriatone Molecular 50.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Demonfx Dual Boost - Fortin 33 side Knob@5 ESR_0.0017_lite",
+            "author": "Tudor",
+            "model": "N Demonfx Dual Boost - Fortin 33 side Knob@5 ESR_0.0017_lite",
+            "filename": "Tudor N Demonfx Dual Boost - Fortin 33 side Knob@5 ESR_0.0017_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@down ESR_0.0013_lite",
+            "author": "Tudor",
+            "model": "N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@down ESR_0.0013_lite",
+            "filename": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@down ESR_0.0013_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@up ESR_0.0026_lite",
+            "author": "Tudor",
+            "model": "N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@up ESR_0.0026_lite",
+            "filename": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@up ESR_0.0026_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@down ESR_0.0016_lite",
+            "author": "Tudor",
+            "model": "N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@down ESR_0.0016_lite",
+            "filename": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@down ESR_0.0016_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@up ESR_0.0023_lite",
+            "author": "Tudor",
+            "model": "N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@up ESR_0.0023_lite",
+            "filename": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@up ESR_0.0023_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Driftwood Nightmare High Gain   HM2",
+            "author": "Tudor",
+            "model": "N Driftwood Nightmare High Gain   HM2",
+            "filename": "Tudor N Driftwood Nightmare High Gain   HM2.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Driftwood Nightmare Low Gain",
+            "author": "Tudor",
+            "model": "N Driftwood Nightmare Low Gain",
+            "filename": "Tudor N Driftwood Nightmare Low Gain.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Driftwood Nightmare Low Gain   TS",
+            "author": "Tudor",
+            "model": "N Driftwood Nightmare Low Gain   TS",
+            "filename": "Tudor N Driftwood Nightmare Low Gain   TS.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0012_lite",
+            "author": "Tudor",
+            "model": "N Fortin Grind Mini Knob @ 5 ESR_0.0012_lite",
+            "filename": "Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0012_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0017_standard",
+            "author": "Tudor",
+            "model": "N Fortin Grind Mini Knob @ 5 ESR_0.0017_standard",
+            "filename": "Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0017_standard.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0006_lite",
+            "author": "Tudor",
+            "model": "N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0006_lite",
+            "filename": "Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0006_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0007_standard",
+            "author": "Tudor",
+            "model": "N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0007_standard",
+            "filename": "Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0007_standard.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0005_lite",
+            "author": "Tudor",
+            "model": "N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0005_lite",
+            "filename": "Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0005_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0008_standard",
+            "author": "Tudor",
+            "model": "N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0008_standard",
+            "filename": "Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0008_standard.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0004_lite",
+            "author": "Tudor",
+            "model": "N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0004_lite",
+            "filename": "Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0004_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0005_standard",
+            "author": "Tudor",
+            "model": "N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0005_standard",
+            "filename": "Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0005_standard.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0014_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0014_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0014_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0016",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0016",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0016.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0018_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0018_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0018_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0019_standard",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0019_standard",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0019_standard.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0026_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0026_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0026_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0029_standard",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0029_standard",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0029_standard.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_standard",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_standard",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_standard.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_standard",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_standard",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_standard.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018_lite",
+            "author": "Tudor",
+            "model": "N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018_lite",
+            "filename": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018_lite.nam",
+            "type": "DI"
+        },
+        {
+            "name": "Tudor N Precision Drive (pedalPCB) Vol@6_Drv@0_Brgt@5.5_Atk@4_ESR_0.0004_lite",
+            "author": "Tudor",
+            "model": "N Precision Drive (pedalPCB) Vol@6_Drv@0_Brgt@5.5_Atk@4_ESR_0.0004_lite",
+            "filename": "Tudor N Precision Drive (pedalPCB) Vol@6_Drv@0_Brgt@5.5_Atk@4_ESR_0.0004_lite.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Mesa 2x12] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0146_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Mesa 2x12] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0146_normalized-6dB",
+            "filename": "Tudor N [Mesa 2x12] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0146_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@4_Gir@2_Pres@5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@4_Gir@2_Pres@5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@4_Gir@2_Pres@5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0151_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0151_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0151_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0265_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0265_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0265_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0119_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0119_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0119_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0048_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0048_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0048_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0142_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0142_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0142_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0124_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0124_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0124_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0161_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0161_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0161_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0106_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0106_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0106_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0109_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0109_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0109_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0115_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0115_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0115_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0131_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0131_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0131_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0104_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0104_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0104_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0135_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0135_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0135_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0192_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0192_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0192_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0076_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0076_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0076_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0190_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0190_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0190_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Input@HI_Dep@8_Gir@6.5_Pres@8_Bas@6.5_Mid@4.5_Tre@9_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0125_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Input@HI_Dep@8_Gir@6.5_Pres@8_Bas@6.5_Mid@4.5_Tre@9_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0125_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Input@HI_Dep@8_Gir@6.5_Pres@8_Bas@6.5_Mid@4.5_Tre@9_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0125_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@10 ESR_0.0135_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@10 ESR_0.0135_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@10 ESR_0.0135_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@5 ESR_0.0137_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@5 ESR_0.0137_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@5 ESR_0.0137_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@10 ESR_0.0144_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@10 ESR_0.0144_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@10 ESR_0.0144_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@5 ESR_0.0114_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@5 ESR_0.0114_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@5 ESR_0.0114_normalized-6dB.nam",
+            "type": "Full"
+        },
+        {
+            "name": "Tudor N [Suhr RL] Poweramp_Dep@8_Gir@5_Pres@8_Mas@5 ESR_0.0128_normalized-6dB",
+            "author": "Tudor",
+            "model": "N [Suhr RL] Poweramp_Dep@8_Gir@5_Pres@8_Mas@5 ESR_0.0128_normalized-6dB",
+            "filename": "Tudor N [Suhr RL] Poweramp_Dep@8_Gir@5_Pres@8_Mas@5 ESR_0.0128_normalized-6dB.nam",
+            "type": "Full"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+# JUCE
+Builds/
+JuceLibraryCode/
+*.jucer.old
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.swp
+compile_commands.json
+
+# Binaries & Build Artifacts
+bin/
+obj/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.vst3
+*.app
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific ignores
+Models/*.nam
+Cabinets/*.wav
+# (Note: Keeping the folders but ignoring large binary files if needed, 
+# but usually users want to keep some default models. I'll comment these out for now)
+# !Models/default.nam
