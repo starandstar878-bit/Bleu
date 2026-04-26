@@ -36,6 +36,15 @@
 #include "Effects/HarmonicEffect.h"
 #include "Effects/TapeSaturatorEffect.h"
 #include "Effects/TransientShaperEffect.h"
+#include "Effects/WaveFolderEffect.h"
+#include "Effects/SlowGearEffect.h"
+#include "Effects/OctaveFuzzEffect.h"
+#include "Effects/StereoEnhancerEffect.h"
+#include "Effects/MasterLimiterEffect.h"
+#include "Effects/ReverseDelayEffect.h"
+#include "Effects/BitReductionEffect.h"
+#include "Effects/CombFilterEffect.h"
+#include "Effects/GlitchEffect.h"
 #include "PluginEditor.h"
 #include <cstring>
 
@@ -96,6 +105,15 @@ void BleuAudioProcessor::initRegistry() {
   REGISTER_EFFECT(HarmonicEffect, "Sub-Synth");
   REGISTER_EFFECT(TapeSaturatorEffect, "Tape Sat");
   REGISTER_EFFECT(TransientShaperEffect, "Trans Shape");
+  REGISTER_EFFECT(WaveFolderEffect, "Wave Folder");
+  REGISTER_EFFECT(SlowGearEffect, "Slow Gear");
+  REGISTER_EFFECT(OctaveFuzzEffect, "Octave Fuzz");
+  REGISTER_EFFECT(StereoEnhancerEffect, "Stereo Wide");
+  REGISTER_EFFECT(MasterLimiterEffect, "Limiter");
+  REGISTER_EFFECT(ReverseDelayEffect, "Reverse Delay");
+  REGISTER_EFFECT(BitReductionEffect, "Bit Reducer");
+  REGISTER_EFFECT(CombFilterEffect, "Comb Filter");
+  REGISTER_EFFECT(GlitchEffect, "Glitcher");
 }
 
 //==============================================================================
